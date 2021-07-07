@@ -15,8 +15,8 @@ Working screenshot previews of the app
   <table
          <tr>
     <td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Home.PNG" width="260px" height="520px">  </td>
-		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Livestocks.png" width="260px" height="520px">  </td>
-		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Sentiment.png" width="260px" height="520px">  </td>
+		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Livestocks.PNG" width="260px" height="520px">  </td>
+		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Sentiment.PNG" width="260px" height="520px">  </td>
     </tr>
     </table>
 

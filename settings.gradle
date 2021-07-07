@@ -1,0 +1,3 @@
+rootProject.name='Share Marketting App'
+include ':app'
+include ':app-testing'

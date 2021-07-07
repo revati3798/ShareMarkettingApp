@@ -11,7 +11,8 @@ Project is based on share marketing where we load important live stock details. 
 Preview:-
 Working screenshot previews of the app
 
-![Screenshot](Preview/Home.png]
+
+  <img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Home.PNG" width="350" title="hover text">
 
 Project Development:-
 Android studio 3.6.2

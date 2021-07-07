@@ -12,7 +12,13 @@ Project is based on share marketing where we load important live stock details. 
 Working screenshot previews of the app
 
 
-  <img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Home.PNG" width="350" title="hover text">
+  <table
+         <tr>
+    <td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Home.PNG" width="260px" height="520px">  </td>
+		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Livestocks.png" width="260px" height="520px">  </td>
+		<td><img src="https://github.com/revati3798/ShareMarkettingApp/blob/main/Preview/Sentiment.png" width="260px" height="520px">  </td>
+    </tr>
+    </table>
 
 <b>Project Development:-</b>
 - Android studio 3.6.2

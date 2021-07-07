@@ -8,6 +8,11 @@ Project is based on share marketing where we load important live stock details. 
 - allows user to take decision based on sentiment data
 - live news articles and detailed information
 
+Preview:-
+Working screenshot previews of the app
+
+![Screenshot](Preview/Home.png]
+
 Project Development:-
 Android studio 3.6.2
 References: moneycontrol, economic times

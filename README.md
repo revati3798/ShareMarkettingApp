@@ -1,6 +1,6 @@
 <h1> <b> Sentiment based share marketing app </h1> </b>
 
-<b> Abstract:- <b>
+<b> Abstract:- </b>
 Project is based on share marketing where we load important live stock details. It makes this app different due to following key reasons.
 
 - important live stock details and market value
@@ -8,7 +8,7 @@ Project is based on share marketing where we load important live stock details. 
 - allows user to take decision based on sentiment data
 - live news articles and detailed information
 
-<b>Preview:- <b>
+<b>Preview:- </b>
 Working screenshot previews of the app
 
 
@@ -20,4 +20,4 @@ Working screenshot previews of the app
 - SDK min: 23
 - SDK max: 28
 
-Project by <b>Revati Sonkawde<b>
+Project by <b>Revati Sonkawde </b>
